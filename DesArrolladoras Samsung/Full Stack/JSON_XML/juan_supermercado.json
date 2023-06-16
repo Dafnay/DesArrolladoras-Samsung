@@ -1,0 +1,236 @@
+{
+    "uno": [
+      {
+        "id": 1,
+        "nombre": "Mercadona",
+        "direccion": "Molin la Casuca, s/n",
+        "geolocalizacion": [
+          "43.38966875732954",
+          "-5.81879920348734"
+        ],
+        "lugar": "Oviedo",
+        "horarioApertura": "Lunes a Sábado de 9 - a 21h",
+        "productos": [
+          {
+            "id": "unomercadona",
+            "nombre": "leche desnatada",
+            "seccion": "lácteos",
+            "descripcion": "leche desnatada Hacendado",
+            "origen": "España",
+            "oferta": false,
+            "pvp": 0.83,
+            "formato": "1 litro",
+            "habitual": true,
+            "adquirido": true
+          },
+          {
+            "id": "dosMercadona",
+            "nombre": "galletitas saladas redondas",
+            "seccion": "panadería",
+            "descripcion": "galletitas saladas redondas Hacendado",
+            "origen": "España",
+            "oferta": true,
+            "vigenciaOferta": [
+              "24/03/25"
+             
+            ],
+            "pvp": 1.27,
+            "pvpRebajado": 1 ,
+            "formato": "350 grs.",
+            "habitual": false,
+            "adquirido": true
+          },
+          {
+            "id": "tresMercadona",
+            "nombre": "huevos camperos",
+            "seccion": "lácteos",
+            "descripcion": "huevos gallinas camperas",
+            "origen": "España",
+            "oferta": false,
+            "pvp": 1.99,
+            "formato": "media docena",
+            "habitual": true,
+            "adquirido": false
+          },
+          {
+            "id": "cuatroMercadona",
+            "nombre": "manzanas golden",
+            "seccion": "frutería",
+            "descripcion": "manzanas golden francia",
+            "origen": "Francia",
+            "oferta": true,
+            "vigenciaOferta": [
+              "19/03/23",
+              "26/03/23"
+            ],
+            "pvp": 1.69,
+            "pvpRebajado": 0.95,
+            "formato": "1 kg.",
+            "habitual": true,
+            "adquirido": false
+          }
+        ]
+      }
+    ],
+    "dos": [
+      {
+        "id": 2,
+        "nombre": "Lidl",
+        "direccion": "Av. del Mar, 94",
+        "geolocalizacion": [
+          "43.383210203347076",
+          "-5.832853988429335"
+        ],
+        "lugar": "Oviedo",
+        "horarioApertura": "Lunes a Sábado de 9 - 21:30h",
+        "productos": [
+          {
+            "id": "unoLidl",
+            "nombre": "yogur natural",
+            "seccion": "lácteos",
+            "descripcion": "yogur natural sin azúcar hacendado",
+            "origen": "Portugal",
+            "oferta": true,
+            "vigenciaOferta": "1/04/23",
+            "pvp": 1.65,
+            "pvpRebajado": 1.4,
+            "formato": "pack de 6 x 125 grs.",
+            "habitual": true,
+            "adquirido": true
+          },
+          {
+            "id": "dosLidl",
+            "nombre": "pan de centeno",
+            "seccion": "panadería",
+            "descripcion": "pan de centeno formato ahorro",
+            "origen": "Alemania",
+            "oferta": false,
+            "pvp": 2.75,
+            "formato": "1 kg.",
+            "habitual": true,
+            "adquirido": true
+          },
+          {
+            "id": "tresLidl",
+            "nombre": "aceite de oliva",
+            "seccion": "conservas",
+            "descripcion": "aceite de oliva virgen extra coosur",
+            "origen": "España",
+            "oferta": true,
+            "vigenciaOferta": [
+              "20/03/23",
+              "30/03/23"
+            ],
+            "pvp": 1.85,
+            "pvpRebajado": 1.45,
+            "formato": "1 L.",
+            "habitual": true,
+            "adquirido": false
+          },
+          {
+            "id": "cuatroLidl",
+            "nombre": "brócoli",
+            "seccion": "frutería",
+            "descripcion": "brócoli manojo huerta",
+            "origen": "Portugal",
+            "oferta": false,
+            "pvp": 0.85,
+            "formato": "1 kg.",
+            "habitual": false,
+            "adquirido": true
+          },
+          {
+            "id": "cincoLidl",
+            "nombre": "garbanzos",
+            "seccion": "conservas",
+            "descripcion": "garbanzos cocidos conserva",
+            "origen": "España",
+            "oferta": false,
+            "pvp": 1.78,
+            "formato": "500 grs.",
+            "habitual": true,
+            "adquirido": true
+          }
+        ]
+      }
+    ],
+    "tres": [
+      {
+        "id": 3,
+        "nombre": "Masymas",
+        "direccion": "El Cortijo, 4",
+        "geolocalizacion": [
+          " 43.38882670520636",
+          "-5.824046124531282"
+        ],
+        "lugar": "Oviedo",
+        "horarioApertura": "Lunes a Sábado de 9:00 - 21h",
+        "productos": [
+          {
+            "id": "unoMasymas",
+            "nombre": "coca-cola",
+            "seccion": "bebidas y refrescos",
+            "descripcion": "coca cola",
+            "origen": "España",
+            "oferta": true,
+            "vigenciaOferta": [
+              "19/03/23",
+              "1/04/23"
+            ],
+            "pvp": 1.49,
+            "pvpRebajado": 1.25,
+            "formato": "coca cola pet 1/250ml",
+            "habitual": false,
+            "adquirido": false
+          },
+          {
+            "id": "dosMasymas",
+            "nombre": "calamar",
+            "seccion": "congelados",
+            "descripcion": "calamar troceado congelado",
+            "origen": "Marruecos",
+            "oferta": true,
+            "vigenciaOferta": [
+              "27/03/23",
+              "30/03/23"
+            ],
+            "pvp": 5.35,
+            "pvpRebajado": 3.95,
+            "formato": "1 kg.",
+            "habitual": true,
+            "adquirido": true
+          },
+          {
+            "id": "tresMasymas",
+            "nombre": "arroz basmati",
+            "seccion": "pastas y arroz",
+            "descripcion": "arroz basmati jazmín",
+            "origen": "China",
+            "oferta": false,
+            "pvp": 2.3,
+            "formato": "1 kg.",
+            "habitual": false,
+            "adquirido": false
+          },
+        
+          {
+            "id": "cuatroMasymas",
+            "nombre": "chocolate negro",
+            "seccion": "dulces",
+            "descripcion": "chocolate negro 85%",
+            "origen": "Ecuador",
+            "oferta": true,
+            "vigenciaOferta": [
+              "27/03/23",
+              "30/03/23"
+            ],
+            "pvp": 2.75,
+            "pvpRebajado": 2,
+            "formato": "200 grs.",
+            "habitual": true,
+            "adquirido": true
+          }
+        ]
+      }
+    ]
+  }

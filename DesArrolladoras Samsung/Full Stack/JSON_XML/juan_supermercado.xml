@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <uno>
+         <id>1</id>
+         <nombre>Mercadona</nombre>
+         <direccion>Molin la Casuca, s/n</direccion>
+         <geolocalizacion>43.38966875732954</geolocalizacion>
+         <geolocalizacion>-5.81879920348734</geolocalizacion>
+         <lugar>Oviedo</lugar>
+         <horarioApertura>Lunes a Sábado de 9 - a 21h</horarioApertura>
+         <productos>
+             <id>unomercadona</id>
+             <nombre>leche desnatada</nombre>
+             <seccion>lácteos</seccion>
+             <descripcion>leche desnatada Hacendado</descripcion>
+             <origen>España</origen>
+             <oferta>false</oferta>
+             <pvp>0.83</pvp>
+             <formato>1 litro</formato>
+             <habitual>true</habitual>
+             <adquirido>true</adquirido>
+         </productos>
+         <productos>
+             <id>dosMercadona</id>
+             <nombre>galletitas saladas redondas</nombre>
+             <seccion>panadería</seccion>
+             <descripcion>galletitas saladas redondas Hacendado</descripcion>
+             <origen>España</origen>
+             <oferta>true</oferta>
+             <vigenciaOferta>24/03/25</vigenciaOferta>
+             <pvp>1.27</pvp>
+             <pvpRebajado>1</pvpRebajado>
+             <formato>350 grs.</formato>
+             <habitual>false</habitual>
+             <adquirido>true</adquirido>
+         </productos>
+         <productos>
+             <id>tresMercadona</id>
+             <nombre>huevos camperos</nombre>
+             <seccion>lácteos</seccion>
+             <descripcion>huevos gallinas camperas</descripcion>
+             <origen>España</origen>
+             <oferta>false</oferta>
+             <pvp>1.99</pvp>
+             <formato>media docena</formato>
+             <habitual>true</habitual>
+             <adquirido>false</adquirido>
+         </productos>
+         <productos>
+             <id>cuatroMercadona</id>
+             <nombre>manzanas golden</nombre>
+             <seccion>frutería</seccion>
+             <descripcion>manzanas golden francia</descripcion>
+             <origen>Francia</origen>
+             <oferta>true</oferta>
+             <vigenciaOferta>19/03/23</vigenciaOferta>
+             <vigenciaOferta>26/03/23</vigenciaOferta>
+             <pvp>1.69</pvp>
+             <pvpRebajado>0.95</pvpRebajado>
+             <formato>1 kg.</formato>
+             <habitual>true</habitual>
+             <adquirido>false</adquirido>
+         </productos>
+     </uno>
+     <dos>
+         <id>2</id>
+         <nombre>Lidl</nombre>
+         <direccion>Av. del Mar, 94</direccion>
+         <geolocalizacion>43.383210203347076</geolocalizacion>
+         <geolocalizacion>-5.832853988429335</geolocalizacion>
+         <lugar>Oviedo</lugar>
+         <horarioApertura>Lunes a Sábado de 9 - 21:30h</horarioApertura>
+         <productos>
+             <id>unoLidl</id>
+             <nombre>yogur natural</nombre>
+             <seccion>lácteos</seccion>
+             <descripcion>yogur natural sin azúcar hacendado</descripcion>
+             <origen>Portugal</origen>
+             <oferta>true</oferta>
+             <vigenciaOferta>1/04/23</vigenciaOferta>
+             <pvp>1.65</pvp>
+             <pvpRebajado>1.4</pvpRebajado>
+             <formato>pack de 6 x 125 grs.</formato>
+             <habitual>true</habitual>
+             <adquirido>true</adquirido>
+         </productos>
+         <productos>
+             <id>dosLidl</id>
+             <nombre>pan de centeno</nombre>
+             <seccion>panadería</seccion>
+             <descripcion>pan de centeno formato ahorro</descripcion>
+             <origen>Alemania</origen>
+             <oferta>false</oferta>
+             <pvp>2.75</pvp>
+             <formato>1 kg.</formato>
+             <habitual>true</habitual>
+             <adquirido>true</adquirido>
+         </productos>
+         <productos>
+             <id>tresLidl</id>
+             <nombre>aceite de oliva</nombre>
+             <seccion>conservas</seccion>
+             <descripcion>aceite de oliva virgen extra coosur</descripcion>
+             <origen>España</origen>
+             <oferta>true</oferta>
+             <vigenciaOferta>20/03/23</vigenciaOferta>
+             <vigenciaOferta>30/03/23</vigenciaOferta>
+             <pvp>1.85</pvp>
+             <pvpRebajado>1.45</pvpRebajado>
+             <formato>1 L.</formato>
+             <habitual>true</habitual>
+             <adquirido>false</adquirido>
+         </productos>
+         <productos>
+             <id>cuatroLidl</id>
+             <nombre>brócoli</nombre>
+             <seccion>frutería</seccion>
+             <descripcion>brócoli manojo huerta</descripcion>
+             <origen>Portugal</origen>
+             <oferta>false</oferta>
+             <pvp>0.85</pvp>
+             <formato>1 kg.</formato>
+             <habitual>false</habitual>
+             <adquirido>true</adquirido>
+         </productos>
+         <productos>
+             <id>cincoLidl</id>
+             <nombre>garbanzos</nombre>
+             <seccion>conservas</seccion>
+             <descripcion>garbanzos cocidos conserva</descripcion>
+             <origen>España</origen>
+             <oferta>false</oferta>
+             <pvp>1.78</pvp>
+             <formato>500 grs.</formato>
+             <habitual>true</habitual>
+             <adquirido>true</adquirido>
+         </productos>
+     </dos>
+     <tres>
+         <id>3</id>
+         <nombre>Masymas</nombre>
+         <direccion>El Cortijo, 4</direccion>
+         <geolocalizacion> 43.38882670520636</geolocalizacion>
+         <geolocalizacion>-5.824046124531282</geolocalizacion>
+         <lugar>Oviedo</lugar>
+         <horarioApertura>Lunes a Sábado de 9:00 - 21h</horarioApertura>
+         <productos>
+             <id>unoMasymas</id>
+             <nombre>coca-cola</nombre>
+             <seccion>bebidas y refrescos</seccion>
+             <descripcion>coca cola</descripcion>
+             <origen>España</origen>
+             <oferta>true</oferta>
+             <vigenciaOferta>19/03/23</vigenciaOferta>
+             <vigenciaOferta>1/04/23</vigenciaOferta>
+             <pvp>1.49</pvp>
+             <pvpRebajado>1.25</pvpRebajado>
+             <formato>coca cola pet 1/250ml</formato>
+             <habitual>false</habitual>
+             <adquirido>false</adquirido>
+         </productos>
+         <productos>
+             <id>dosMasymas</id>
+             <nombre>calamar</nombre>
+             <seccion>congelados</seccion>
+             <descripcion>calamar troceado congelado</descripcion>
+             <origen>Marruecos</origen>
+             <oferta>true</oferta>
+             <vigenciaOferta>27/03/23</vigenciaOferta>
+             <vigenciaOferta>30/03/23</vigenciaOferta>
+             <pvp>5.35</pvp>
+             <pvpRebajado>3.95</pvpRebajado>
+             <formato>1 kg.</formato>
+             <habitual>true</habitual>
+             <adquirido>true</adquirido>
+         </productos>
+         <productos>
+             <id>tresMasymas</id>
+             <nombre>arroz basmati</nombre>
+             <seccion>pastas y arroz</seccion>
+             <descripcion>arroz basmati jazmín</descripcion>
+             <origen>China</origen>
+             <oferta>false</oferta>
+             <pvp>2.3</pvp>
+             <formato>1 kg.</formato>
+             <habitual>false</habitual>
+             <adquirido>false</adquirido>
+         </productos>
+         <productos>
+             <id>cuatroMasymas</id>
+             <nombre>chocolate negro</nombre>
+             <seccion>dulces</seccion>
+             <descripcion>chocolate negro 85%</descripcion>
+             <origen>Ecuador</origen>
+             <oferta>true</oferta>
+             <vigenciaOferta>27/03/23</vigenciaOferta>
+             <vigenciaOferta>30/03/23</vigenciaOferta>
+             <pvp>2.75</pvp>
+             <pvpRebajado>2</pvpRebajado>
+             <formato>200 grs.</formato>
+             <habitual>true</habitual>
+             <adquirido>true</adquirido>
+         </productos>
+     </tres>
+ </root>

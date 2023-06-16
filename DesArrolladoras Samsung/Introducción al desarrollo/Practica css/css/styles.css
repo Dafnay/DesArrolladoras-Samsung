@@ -1,0 +1,40 @@
+body{
+    background-color: cyan ;
+}
+h1{
+    color: red;
+}
+
+h2{
+    color: blue;
+    text-decoration: underline;
+    font-style: italic;
+}
+.big{
+    font-size: xx-large;
+}
+.small{
+    font-size: xx-small;
+    
+}
+.table.tabla1{
+    border: none;
+}
+
+.tr,td{
+    border: 5px solid black;
+
+}
+.tabla1{
+    background-color: blue;
+    width: 100%;
+    color:white
+}  
+
+.rojo{
+    background-color: red;
+}
+img{
+    max-width: 18%;
+    max-height: 18%;
+}
